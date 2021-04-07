@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">MVI study</string>
+    <string name="app_name">MVVMstudy</string>
+    <string name="position_name_input">nameInput</string>
+    <string name="position_details_input">detailsInput</string>
+    <string name="Confirm">Confirm</string>
+    <string name="closeButton">Close</string>
+    <string name="editButton">Edit</string>
+    <string name="Cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="x">X</string>
 </resources>
